@@ -1,0 +1,8 @@
+Validar registro
+crear vista recuperar contraseña
+Mejorar vista de logeado
+Crear navbar para deslogear
+agregar cookies
+agregar tokenJWT
+hacer backend
+arreglar footer
